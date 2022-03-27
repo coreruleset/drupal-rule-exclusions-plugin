@@ -10,7 +10,7 @@ For full and up to date instructions for the different available plugin installa
 
 ## Testing
 
-After the plugin is enabled, Drupal should work without problems caused by CRS (for example, false positives while blocking requests). If problems still occur then please file a new issue on [GitHub](https://github.com/coreruleset/drupal-rule-exclusions-plugin). Note that high paranoia level deployments may require additional tuning beyond this plugin.
+After the plugin is enabled, Drupal should work without problems caused by CRS (for example, false positives while blocking requests). If problems still occur then please file a new issue on [GitHub](https://github.com/coreruleset/drupal-rule-exclusions-plugin). (Note that high paranoia level deployments may require additional tuning beyond this plugin.)
 
 ## License
 
