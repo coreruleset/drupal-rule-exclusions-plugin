@@ -9,3 +9,4 @@
 - [Chaim Sanders](https://github.com/csanders-git)
 - [Federico G. Schwindt](https://github.com/fgsch)
 - [Felipe Zipitría](https://github.com/fzipi)
+- [Max Leske](https://github.com/theseion)
