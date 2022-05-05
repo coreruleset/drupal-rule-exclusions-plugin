@@ -6,7 +6,7 @@ This plugin contains rule exclusions for [Drupal](https://www.drupal.org/), a PH
 
 ## Installation
 
-For full and up to date instructions for the different available plugin installation methods, refer to [How to Install a Plugin](https://coreruleset.org/docs/configuring/plugins/#how-to-install-a-plugin) in the official CRS documentation.
+For full and up to date instructions for the different available plugin installation methods, refer to [How to Install a Plugin](https://coreruleset.org/docs/concepts/plugins/#how-to-install-a-plugin) in the official CRS documentation.
 
 ## Testing
 
