@@ -1,5 +1,6 @@
 # Contributors to Drupal Rule Exclusions Plugin
 
+- [Esad Cetiner](https://github.com/esadcetiner/)
 - [Christian Folini](https://github.com/dune73)
 - [Christoph Hansen](https://github.com/emphazer)
 - [Ervin Hegedus](https://github.com/airween)
