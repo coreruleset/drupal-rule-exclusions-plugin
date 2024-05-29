@@ -1,5 +1,8 @@
 # OWASP CRS - Drupal Rule Exclusions Plugin
 
+[![Integration tests](https://github.com/coreruleset/drupal-rule-exclusions-plugin/actions/workflows/integration.yml/badge.svg)](https://github.com/coreruleset/drupal-rule-exclusions-plugin/actions/workflows/integration.yml)
+[![.github/workflows/lint.yml](https://github.com/coreruleset/drupal-rule-exclusions-plugin/actions/workflows/lint.yml/badge.svg)](https://github.com/coreruleset/drupal-rule-exclusions-plugin/actions/workflows/lint.yml)
+
 ## Description
 
 This plugin contains rule exclusions for [Drupal](https://www.drupal.org/), a PHP-based content management system. These rule exclusions are designed to resolve common false positives and allow for easier integration with the OWASP CRS (CRS).
