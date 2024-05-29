@@ -14,10 +14,9 @@ tests:
             headers:
               Host: localhost
               User-Agent: OWASP CRS
-              Accept: */*
+              Accept: "*/*"
             port: 80
             method: GET
             uri: /admin/config/test
           output:
             no_log_contains: id "942430"
-
