@@ -11,6 +11,10 @@ This plugin contains rule exclusions for [Drupal](https://www.drupal.org/), a PH
 
 For full and up to date instructions for the different available plugin installation methods, refer to [How to Install a Plugin](https://coreruleset.org/docs/concepts/plugins/#how-to-install-a-plugin) in the official CRS documentation.
 
+### Conditionally enable plugins for multi-application environments
+
+For full and up to date instructions on how to conditionally enable/disable this plugin on a multisite environment, please refer to [Conditionally enable plugins for multi-application environments](https://coreruleset.org/docs/concepts/plugins/#conditionally-enable-plugins-for-multi-application-environments) in the official CRS documentation.
+
 ## Testing
 
 After the plugin is enabled, Drupal should work without problems caused by CRS (for example, false positives while blocking requests). If problems still occur then please file a new issue on [GitHub](https://github.com/coreruleset/drupal-rule-exclusions-plugin). (Note that high paranoia level deployments may require additional tuning beyond this plugin.)
