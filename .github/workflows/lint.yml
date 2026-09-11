@@ -3,4 +3,4 @@ on: [push, pull_request]        # yamllint disable-line rule:truthy
 
 jobs:
   plugin-lint:
-    uses: coreruleset/crs-plugin-test-action/.github/workflows/lint.yaml@7e1ee6d07105ae3cb6eec95e45acb5e1a895e3d4 # main
+    uses: coreruleset/crs-plugin-test-action/.github/workflows/lint.yaml@81cb7f29881911c56f33a82d1e25dc26e0e13636 # main
