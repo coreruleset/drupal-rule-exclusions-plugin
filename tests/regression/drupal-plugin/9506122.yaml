@@ -1,7 +1,7 @@
 ---
 meta:
   author: "Felipe Zipitria, azurit"
-  description: "Drupal Plugin"
+  description: "Drupal Rule Exclusions Plugin"
 rule_id: 9506122
 tests:
   - test_id: 1
@@ -16,7 +16,7 @@ tests:
           port: 80
           method: GET
           version: HTTP/1.1
-          uri: /get/js/vendor/sprintf.js
+          uri: /get/admin/config/test
         output:
           log:
             no_expect_ids: [942430]
